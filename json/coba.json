@@ -1,0 +1,27 @@
+[
+     {
+        "nama" : "Gugi Imamudin",
+        "umur" : 22,
+        "nrp" : "153040064",
+        "lulus" :true,
+        "hobi" : [ "coding", "gaming"],
+
+        "pembimbing" : {
+            "pembimbing1" : "Rayi Oktora",
+            "pembimbing2" : "Dede Firmansyah"
+        }
+    },
+    {
+        "nama" : "Gugi Imamudin",
+        "umur" : 22,
+        "nrp" : "153040064",
+        "lulus" :true,
+        "hobi" : [ "coding", "gaming"],
+
+        "pembimbing" : {
+            "pembimbing1" : "Rayi Oktora",
+            "pembimbing2" : "Dede Firmansyah"
+        }
+    }
+    
+]
